@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    siteUrl: 'http://taisukemino.com',
+    siteUrl: 'https://taisukemino.com',
     author: 'Taisuke Mino',
     title: "Tai's website",
     description: 'I write about things I find interesting.',
