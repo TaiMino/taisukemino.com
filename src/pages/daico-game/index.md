@@ -7,6 +7,7 @@ keywords: []
 slug: >-
   /@taisukemino/daico-game
 language: "en"
+translations: ["jp", "jp/daico-game-jp"]
 ---
 
 ![](https://cdn-images-1.medium.com/max/1200/1*CFbHqKuklsNNo7sRhUgnqg.png)
