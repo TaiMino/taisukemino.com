@@ -1,9 +1,9 @@
 module.exports = {
   siteMetadata: {
-    siteUrl: 'https://jackbravo.github.io/gatsby-starter-i18n-blog/',
-    author: 'Joaquín Bravo Contreras',
-    title: 'Gatsby Starter i18n Blog',
-    description: 'A starter blog with i18n',
+    siteUrl: 'http://taisukemino.com',
+    author: 'Taisuke Mino',
+    title: "Tai's website",
+    description: 'I write about things I find interesting.',
   },
   pathPrefix: '/gatsby-starter-i18n-blog',
   plugins: [
@@ -48,13 +48,13 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Gatsby Starter Blog`,
+        name: `Tai's website`,
         short_name: `GatsbyJS`,
         start_url: `/`,
         background_color: `#ffffff`,
         theme_color: `#663399`,
         display: `minimal-ui`,
-        icon: `src/assets/gatsby-icon.png`,
+        icon: `src/assets/earth-icon.png`,
       },
     },
     `gatsby-plugin-offline`,

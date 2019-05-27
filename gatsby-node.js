@@ -49,7 +49,7 @@ exports.createPages = ({ graphql, actions }) => {
     )
 
     const blogPost = path.resolve('./src/templates/blog-post.js')
-    _.each(['en', 'es'], (language) => {
+    _.each(['en', 'jp'], (language) => {
       resolve(
         graphql(
           `

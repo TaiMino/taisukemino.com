@@ -2,10 +2,9 @@
 type: language
 language: en
 language_label: "English"
-title: "Gatsby Starter Blog"
+title: "Tai's website"
 description: "A starter blog demonstrating what Gatsby can do."
 ---
 
-Written by **Kyle Mathews** who lives and works in San
-Francisco building useful things.
-[You should follow him on Twitter](https://twitter.com/kylemathews)
+Written by **Taisuke Mino** who lives and works in Tokyo building useful things.
+I'm on [Twitter](https://twitter.com/taisuke_mino) and [Medium](https://medium.com/@taisukemino)
