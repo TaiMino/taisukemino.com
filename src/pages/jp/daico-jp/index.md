@@ -6,7 +6,7 @@ description: >-
 date: "2015-05-01T22:12:03.284Z"
 categories: []
 keywords: []
-slug: /@taisukemino/what-is-wrong-with-ico-white-papers-1e1558340adf
+slug: /@taisukemino/daico-jp
 
 language: jp
 # An array of pairs of translation language and translation link

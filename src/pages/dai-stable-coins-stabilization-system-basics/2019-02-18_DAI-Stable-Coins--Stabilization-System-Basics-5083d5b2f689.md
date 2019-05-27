@@ -4,7 +4,7 @@ description: This post is Part 2 of the ongoing series DAI Stable Coins.
 date: '2019-02-18T06:36:00.767Z'
 categories: []
 keywords: []
-slug: /@taisukemino/dai-stable-coins-stabilization-system-basics-5083d5b2f689
+slug: /@taisukemino/dai-two
 language: "en"
 ---
 

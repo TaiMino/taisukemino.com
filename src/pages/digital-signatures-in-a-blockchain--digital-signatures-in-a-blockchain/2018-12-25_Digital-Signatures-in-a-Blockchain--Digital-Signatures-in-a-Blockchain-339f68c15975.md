@@ -7,7 +7,7 @@ date: '2018-12-25T09:58:59.492Z'
 categories: []
 keywords: []
 slug: >-
-  /@taisukemino/digital-signatures-in-a-blockchain-digital-signatures-in-a-blockchain-339f68c15975
+  /@taisukemino/ds-four
 language: "en"
 ---
 

@@ -9,7 +9,7 @@ date: '2018-12-20T08:22:12.032Z'
 categories: []
 keywords: []
 slug: >-
-  /@taisukemino/digital-signatures-in-a-blockchain-cryptography-and-symmetric-encryption-af51f071b5ce
+  /@taisukemino/ds-one
 language: "en"
 ---
 

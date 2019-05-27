@@ -6,7 +6,7 @@ description: >-
 date: '2018-09-12T04:53:41.252Z'
 categories: []
 keywords: []
-slug: /@taisukemino/what-is-wrong-with-ico-white-papers-1e1558340adf
+slug: /@taisukemino/ico-papers
 language: "en"
 ---
 

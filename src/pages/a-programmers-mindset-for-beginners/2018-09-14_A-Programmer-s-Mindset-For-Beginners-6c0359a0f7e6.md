@@ -4,7 +4,7 @@ description: This is a list of things that I try to keep in my mind when I progr
 date: '2018-09-14T11:47:36.646Z'
 categories: []
 keywords: []
-slug: /@taisukemino/a-programmers-mindset-for-beginners-6c0359a0f7e6
+slug: /@taisukemino/programmer-mindset
 language: "en"
 ---
 

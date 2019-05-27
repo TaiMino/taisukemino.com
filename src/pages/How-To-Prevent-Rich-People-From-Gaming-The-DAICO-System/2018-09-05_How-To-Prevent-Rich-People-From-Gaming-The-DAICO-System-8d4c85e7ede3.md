@@ -5,7 +5,7 @@ date: '2018-09-05T06:43:01.924Z'
 categories: []
 keywords: []
 slug: >-
-  /@taisukemino/how-to-prevent-rich-people-from-gaming-the-daico-system-8d4c85e7ede3
+  /@taisukemino/daico-game
 language: "en"
 ---
 

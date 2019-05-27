@@ -9,7 +9,7 @@ keywords: []
 slug: /@taisukemino/daico
 language: "en"
 # An array of pairs of translation language and translation link
-translations: ["jp", "jp/daico"]
+translations: ["jp", "jp/daico-jp"]
 ---
 
 Since the first ICO of Ethereum on Sep 2, 2014, ICOs have been killing it as a new, democratic and open way to raise funds. For example, early this year, LoopX(a peer to peer trading platform) raised approximately 4.5 million dollars. If you were in a world of a crypto, this might not sound impressive. But this is still significant considering our traditional fund raising schemes. ICO fundraising [surpassed](https://www.cnbc.com/2017/08/09/initial-coin-offerings-surpass-early-stage-venture-capital-funding.html) angel & seed stage Internet VC funding globally as of July 18th, 2017 already.

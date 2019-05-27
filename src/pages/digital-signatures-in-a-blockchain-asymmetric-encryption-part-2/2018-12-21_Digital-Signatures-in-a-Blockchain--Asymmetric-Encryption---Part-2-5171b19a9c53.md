@@ -7,7 +7,7 @@ date: '2018-12-21T03:22:51.332Z'
 categories: []
 keywords: []
 slug: >-
-  /@taisukemino/digital-signatures-in-a-blockchain-asymmetric-encryption-5171b19a9c53
+  /@taisukemino/ds-two
 language: "en"
 ---
 

@@ -6,7 +6,7 @@ description: >-
 date: '2018-11-27T05:26:59.388Z'
 categories: []
 keywords: []
-slug: /@taisukemino/erc20
+slug: /@taisukemino/erc20-guide
 language: "en"
 ---
 
