@@ -5,7 +5,6 @@ date: '2018-09-21T05:56:22.528Z'
 keywords: []
 slug: /@taisukemino/daico-game-jp
 language: jp
-# An array of pairs of translation language and translation link
 translations: [ "en", "daico-game" ]
 ---
 

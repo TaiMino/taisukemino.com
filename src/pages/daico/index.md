@@ -7,7 +7,6 @@ date: '2018-06-14T05:29:24.095Z'
 keywords: []
 slug: /@taisukemino/daico
 language: "en"
-# An array of pairs of translation language and translation link
 translations: ["jp", "jp/daico-jp"]
 ---
 
