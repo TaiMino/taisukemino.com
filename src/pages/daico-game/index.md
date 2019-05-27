@@ -2,7 +2,6 @@
 title: How To Prevent Rich People From Gaming The DAICO System
 description: The DAICO Model
 date: '2018-09-05T06:43:01.924Z'
-categories: []
 keywords: []
 slug: >-
   /@taisukemino/daico-game

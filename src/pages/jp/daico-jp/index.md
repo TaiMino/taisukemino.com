@@ -3,7 +3,6 @@ title: DAICOとは何か
 description: >-
   2014年9月にEthereumが初めてのICOを行ってから、ICOは民主的かつオープンな、新しい資金調達方法として注目されてきました。例えば今年の初めには、LoopXというP2Pのトレーディングプラットフォームが約450万ドル調達しています。暗号通貨業界にどっぷり浸かっている人…
 date: '2018-06-20T16:05:16.336Z'
-categories: []
 keywords: []
 slug: /@taisukemino/daico-jp
 

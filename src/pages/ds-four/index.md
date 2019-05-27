@@ -4,7 +4,6 @@ description: >-
   In my previous post, I discussed how a digital signature can authenticate the
   sender of the message and the content of the message by…
 date: '2018-12-25T09:58:59.492Z'
-categories: []
 keywords: []
 slug: >-
   /@taisukemino/ds-four

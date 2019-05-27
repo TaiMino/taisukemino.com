@@ -2,7 +2,6 @@
 title: A Programmer’s Mindset For Beginners
 description: This is a list of things that I try to keep in my mind when I program.
 date: '2018-09-14T11:47:36.646Z'
-categories: []
 keywords: []
 slug: /@taisukemino/programmer-mindset
 language: "en"

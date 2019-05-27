@@ -2,7 +2,6 @@
 title: 'DAI Stable Coins: Stabilization System Basics'
 description: This post is Part 2 of the ongoing series DAI Stable Coins.
 date: '2019-02-18T06:36:00.767Z'
-categories: []
 keywords: []
 slug: /@taisukemino/dai-two
 language: "en"

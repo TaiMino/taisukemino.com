@@ -2,7 +2,6 @@
 title: 持てる者がDAICOシステムを操作するのをいかに防ぐか
 description: DAICO モデル
 date: '2018-09-21T05:56:22.528Z'
-categories: []
 keywords: []
 slug: /@taisukemino/daico-game-jp
 language: jp

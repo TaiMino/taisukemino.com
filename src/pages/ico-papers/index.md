@@ -4,7 +4,6 @@ description: >-
   ICO white papers are unnecessarily long. Bitcoin white paper was only 9 pages.
   Telegram/TON’s white paper is 132 page. I’d say our natural…
 date: '2018-09-12T04:53:41.252Z'
-categories: []
 keywords: []
 slug: /@taisukemino/ico-papers
 language: "en"

@@ -2,7 +2,6 @@
 title: 'DAI Stable Coins: Why Stable Coins Matter'
 description: This post is Part 1 of the ongoing series DAI Stable Coins.
 date: '2019-02-15T04:01:01.646Z'
-categories: []
 keywords: []
 slug: /@taisukemino/dai-one
 language: "en"

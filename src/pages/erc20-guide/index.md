@@ -4,7 +4,6 @@ description: >-
   In this post, I want to convince you that it’s incredibly easy to issue your
   own tokens on Ethereum. To this end, I will write  a simple…
 date: '2018-11-27T05:26:59.388Z'
-categories: []
 keywords: []
 slug: /@taisukemino/erc20-guide
 language: "en"

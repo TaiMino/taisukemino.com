@@ -4,7 +4,6 @@ description: >-
   Since the first ICO of Ethereum on Sep 2, 2014, ICOs have been killing it as a
   new, democratic and open way to raise funds. For example…
 date: '2018-06-14T05:29:24.095Z'
-categories: []
 keywords: []
 slug: /@taisukemino/daico
 language: "en"
