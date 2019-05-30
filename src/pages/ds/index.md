@@ -17,7 +17,7 @@ Cryptography is a core part of blockchain technology. You won’t understand how
 ### What Is Cryptography?
 First things first, “What is cryptography?” This video below is the scene from [The Imitation Game](https://www.imdb.com/title/tt2084970/) where Alan Turing(arguably the father of the computer) is taking a class with his friend.
 
-[![The Imitation Game](http://i3.ytimg.com/vi/6I2cu6h7Ycs/maxresdefault.jpg)](https://www.youtube.com/watch?v=6I2cu6h7Ycs" target="_blank")
+![The Imitation Game](http://i3.ytimg.com/vi/6I2cu6h7Ycs/maxresdefault.jpg)](https://www.youtube.com/watch?v=6I2cu6h7Ycs)
 
 This is cryptography! He was exchanging encrypted messages with his friend in the classroom so that other people cannot understand what they were talking about. You could see that the clueless teacher thought their notes were gibberish. The major idea of cryptography is **keeping secrets so that we can prevent our data from being accessed by unauthorized people**. In fact, the word _cryptography_ was derived from the Greek word kryptos, meaning “hidden”.
 
@@ -25,17 +25,13 @@ Cryptography might not sound familiar to you, but it is around us. People love g
 
 Now let’s take a look at a specific example of encryption: the Caesar Shift Cipher. Yes, Julius Caesar was using this encryption. Cryptography has been around for a long time.
 
-Here is a demo of the Caesar Shift Cipher. Click on the _Decrypt_ button. You should see the word “_blockchain_”. Now…compare the ciphertext with the plaintext. Spend some time to figure out how this encryption system works.
+[Here](https://codepen.io/Tai/pen/BGYvpV) is a demo of the Caesar Shift Cipher. Click on the _Decrypt_ button. You should see the word “_blockchain_”. Now…compare the ciphertext with the plaintext. Spend some time to figure out how this encryption system works.
 
-https://codepen.io/Tai/pen/BGYvpV
+Now I share with you [another demo](https://codepen.io/Tai/pen/aaxvjz) that uses the same encryption system. But before you click the _Decrypt_ button, spend some time to think about this cryptographic system. What do you think you will get when you decrypt this text?
 
-Here is another demo that uses the same encryption system. What do you think you will get when you decrypt this text?
+Did you get the answer right? You should see “ethereum”.
 
-https://codepen.io/Tai/pen/aaxvjz
-
-You should see “ethereum”. Did you get the answer right?
-
-How does this work? It’s quite simple. It replaces each letter in the message with the one that is three places further down the alphabet.
+Now, how does this work? It’s quite simple. It replaces each letter in the message with the one that is three places further down the alphabet.
 
 ![](https://cdn-images-1.medium.com/max/800/1*E-NPAcnhd303Bo3p733hrA@2x.jpeg)
 
