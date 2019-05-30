@@ -7,7 +7,7 @@ description: >-
 date: '2018-12-20T08:22:12.032Z'
 keywords: []
 slug: >-
-  /@taisukemino/ds-blockchain
+  /@taisukemino/ds
 language: "en"
 ---
 
@@ -17,7 +17,7 @@ Cryptography is a core part of blockchain technology. You won’t understand how
 ### What Is Cryptography?
 First things first, “What is cryptography?” This video below is the scene from [The Imitation Game](https://www.imdb.com/title/tt2084970/) where Alan Turing(arguably the father of the computer) is taking a class with his friend.
 
-![The Imitation Game](http://i3.ytimg.com/vi/6I2cu6h7Ycs/maxresdefault.jpg)](https://www.youtube.com/watch?v=6I2cu6h7Ycs)
+[![The Imitation Game](http://i3.ytimg.com/vi/6I2cu6h7Ycs/maxresdefault.jpg)](https://www.youtube.com/watch?v=6I2cu6h7Ycs)
 
 This is cryptography! He was exchanging encrypted messages with his friend in the classroom so that other people cannot understand what they were talking about. You could see that the clueless teacher thought their notes were gibberish. The major idea of cryptography is **keeping secrets so that we can prevent our data from being accessed by unauthorized people**. In fact, the word _cryptography_ was derived from the Greek word kryptos, meaning “hidden”.
 
