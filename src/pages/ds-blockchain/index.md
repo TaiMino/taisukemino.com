@@ -7,7 +7,7 @@ description: >-
 date: '2018-12-20T08:22:12.032Z'
 keywords: []
 slug: >-
-  /@taisukemino/ds
+  /@taisukemino/ds-blockchain
 language: "en"
 ---
 
