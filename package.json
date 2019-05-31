@@ -52,6 +52,7 @@
   },
   "scripts": {
     "dev": "gatsby develop",
+    "npmreinstall": "rm -rf node_modules/ package-lock.json && npm install",
     "lint": "./node_modules/.bin/eslint --ext .js,.jsx --ignore-pattern public .",
     "test": "echo \"Error: no test specified\" && exit 1",
     "format": "prettier --trailing-comma es5 --no-semi --single-quote --write 'src/**/*.js' 'src/**/*.md'",
