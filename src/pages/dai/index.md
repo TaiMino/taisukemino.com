@@ -162,7 +162,7 @@ Precisely speaking, the actual formula to calculate your leftover looks like bel
 ```
 If this doesn’t make much sense yet, don’t worry. Keep reading for now. Just keep in mind that 150% is the lowest point at which a CDP can avoid being liquidated. Again, it is strongly encouraged to stay well above that minimum level in anticipation of market volatility. You can see the live information about liquidations [here](https://mkr.tools/system/liquidations).
 
-#### **DEMO**
+#### DEMO
 
 To avoid under-collateralization, it’s critical to manage the health of your CDP well. As long as you monitor your CDP and make sure that the value of the locked up ETH is always more than 150% of the DAI that you have generated, your CDP won’t be liquidated. You also want to make sure that you have sufficient liquid assets available that can be used to top up your position, or assets you can sell for DAI to pay down your debt.
 
