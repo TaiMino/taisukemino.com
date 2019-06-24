@@ -10,7 +10,7 @@ language: "en"
 ![source: [https://makerdao.com/en/dai](https://makerdao.com/en/dai)](https://cdn-images-1.medium.com/max/800/1*BJMAVWEIPUUqR9w5yu-S2A.png)
 source: [https://makerdao.com/en/dai](https://makerdao.com/en/dai)
 
-### **Why Stable Coins Matter**
+### Why Stable Coins Matter
 
 Last year, a part of my salary was paid with ether. It made sense for both my client and me because it was easy and cost-efficient. As you may know, the market price of ether plummeted last year, and as a lazy person who didn’t bother exchanging it immediately with fiat money, I lost a fair amount of money. It was around that time of the bear market that I first seriously looked into stable coins. How wonderful is it if cryptocurrencies protect us from downward fluctuations without going through a tedious process of exchanging volatile cryptocurrencies with fiat money?
 
@@ -18,7 +18,7 @@ The volatility of cryptocurrencies might be a good feature for investors, but a 
 
 There are different implementations of stable coins, and in this post, I focus on DAI(the stable coin by MakerDAO.) I will start by talking about the basic idea of MakerDAO and how to stabilize the price of DAI. If you follow along, you will be able to issue and manage your first DAI through smart contracts.
 
-### **Soft-Pegged Coin**
+### Soft-Pegged Coin
 
 In short, DAI is a decentralized stable coin on Ethereum that is soft-pegged to USD. The value of DAI deviates a bit but it will go back to 1 USD over time.
 
@@ -34,7 +34,7 @@ But DAI [fluctuated slightly](https://coinmarketcap.com/currencies/dai/) around 
 
 Sure, they fluctuate a little bit, but this is much more stable than other cryptocurrencies that fluctuate as much as 25% in a day.
 
-### **The Crypto-Collateralized Model**
+### The Crypto-Collateralized Model
 
 So how does MakerDAO soft-peg the price of DAI to $1? MakerDAO falls in the crypto-collateralized model among other models. DAI is backed by valuable crypto assets that are sitting in smart contracts on the Ethereum blockchain and is essentially available to buy back DAI. It’s like the blockchain version of gold standard where all the money were backed by gold so that you have redeemability. Unlike central banks, MakerDAO system doesn’t print money out of thin air.
 
@@ -244,13 +244,13 @@ An increase in the stability fee results in a higher cost of borrowing for CDP u
 
 You can see that MakerDAO beautifully designed the game-theoretical model with the price gap and the stability fee adjustment.
 
-### **MKR Dilution**
+### MKR Dilution
 
 The next stability mechanism is MKR dilution. We discussed about the automatic liquidation as a way to avoid under-collateralization before. However, even if there were the automatic liquidation, at the time when they sell collateral off, the value might significantly drop and then the collateralization ratio might go below 100%.
 
 MKR, the governance token in MakerDAO, is used to cover the unpaid debt here. The MKR gives its holders the rights to vote for risk parameters such as debt ceiling, liquidation ratio, stability fee, or liquidation penalty. The MKR holders are incentivized to do well to stabilize the price of DAI. When automatic liquidation fails, it’s hard to say that they are doing a good job. So when the automatic liquidation fails, the system generates more MKR tokens, sell it on the market to cover for the gap that was not covered by the collateral liquidation. This means MKR value depreciate in value. This is why MKR holders are incentivized to keep the system well.
 
-### **Emergency Shutdown**
+### Emergency Shutdown
 
 All right! Finally, we came to the last stability mechanism. Emergency shutdown(formerly known as Global Settlement). This is the last resort that hopefully never has to be used. It literally shuts down the system at the event of insane market volatility, security breaches or system upgrades.
 
