@@ -221,7 +221,7 @@ If in the market DAI is in the short supply, the value might be slightly higher 
 USD: 100  
 DAI: 95
 ```
-Then you would want to borrow DAI from CDP because their smart contract always assumes that 1DAI = 1USD: you can get 100DAI with $100 worth of 1ETH when in the market you can get only 95DAI. Once you make more loans, you could trade DAI in an open market and gain some capital. This is essentially free money.
+Then you would want to borrow DAI from CDP because their smart contract always assumes that 1DAI = 1USD: you can get 100DAI with $100 worth of ETH when in the market you can get only 95DAI. Once you make more loans, you could trade DAI in an open market and gain some capital. This is essentially free money.
 
 You are financially incentivized to make more loans if 1DAI is more than 1USD(This is actually another reason why you want to create CDP.) Then the contracts issue more tokens, which pull the price down to 1 dollar due to a shorter supply.
 
@@ -230,7 +230,7 @@ Conversely, if in the market there is oversupply of DAI, the value might be slig
 USD: 100  
 DAI: 105
 ```
-Then you want to buy DAI in the open market, and you can use that DAI to pay off your debt in your CDP. Why? Because you can get $100 worth of 1ETH only with 100DAI and use 5DAI to pay off the debt.
+Then you want to buy DAI in the open market, and you can use that DAI to pay off your debt in your CDP. Why? Because you can get $100 worth of ETH only with 100DAI and use 5DAI to pay off the debt.
 
 It is cheaper to buy in the open market and use that DAI to pay back the loan if 1DAI is less than 1USD. When you pay back your loan, the smart contracts burn the DAI and then give ETH back to you, which means the price is pushed up to 1 dollar due to a larger supply.
 
