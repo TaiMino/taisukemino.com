@@ -172,7 +172,7 @@ If the value of the collateral comes too close to 150%, you can either pay back 
 
 #### Pay Back DAI
 
-Go to [the CDP dashboard](https://cdp.makerdao.com/) you created in the part 2 of this series. Click on _PAYBACK_ button in DAI position section. Then a new section will slide in at the right of your screen.
+Go to [the CDP dashboard](https://cdp.makerdao.com/) again. Click on _PAYBACK_ button in DAI position section. Then a new section will slide in at the right of your screen.
 
 ![](https://cdn-images-1.medium.com/max/800/1*oYXJFrwuXyQGThtzlTMeOA.png)
 
