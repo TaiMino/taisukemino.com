@@ -230,7 +230,7 @@ Conversely, if in the market there is oversupply of DAI, the value might be slig
 USD: 100  
 DAI: 105
 ```
-Then you want to buy DAI in the open market, and you can use that DAI to pay off your debt in your CDP. Why? Because you can get $100 worth of ETH only with 100DAI and use 5DAI to pay off the debt.
+Then you want to buy DAI in the open market, and you can use that DAI to pay off your debt in your CDP. Why? Because you can get 105DAI with $100 worth of ETH.
 
 It is cheaper to buy in the open market and use that DAI to pay back the loan if 1DAI is less than 1USD. When you pay back your loan, the smart contracts burn the DAI and then give ETH back to you, which means the price is pushed up to 1 dollar due to a shorter supply.
 
