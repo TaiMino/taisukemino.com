@@ -223,7 +223,7 @@ DAI: 95
 ```
 Then you would want to borrow DAI from CDP because their smart contract always assumes that 1DAI = 1USD: you can get 100DAI with $100 worth of ETH when in the market you can get only 95DAI. Once you make more loans, you could trade DAI in an open market and gain some capital. This is essentially free money.
 
-You are financially incentivized to make more loans if 1DAI is more than 1USD(This is actually another reason why you want to create CDP.) Then the contracts issue more tokens, which pull the price down to 1 dollar due to a shorter supply.
+You are financially incentivized to make more loans if 1DAI is more than 1USD(This is actually another reason why you want to create CDP.) Then the contracts issue more tokens, which pull the price down to 1 dollar due to a larger supply.
 
 Conversely, if in the market there is oversupply of DAI, the value might be slightly lower than a dollar:
 ```
@@ -232,7 +232,7 @@ DAI: 105
 ```
 Then you want to buy DAI in the open market, and you can use that DAI to pay off your debt in your CDP. Why? Because you can get $100 worth of ETH only with 100DAI and use 5DAI to pay off the debt.
 
-It is cheaper to buy in the open market and use that DAI to pay back the loan if 1DAI is less than 1USD. When you pay back your loan, the smart contracts burn the DAI and then give ETH back to you, which means the price is pushed up to 1 dollar due to a larger supply.
+It is cheaper to buy in the open market and use that DAI to pay back the loan if 1DAI is less than 1USD. When you pay back your loan, the smart contracts burn the DAI and then give ETH back to you, which means the price is pushed up to 1 dollar due to a shorter supply.
 
 The key here is the difference between the contract price and the market price. Participants in the DAI ecosystem are either incentivized to make more loans or pay back their loans depending on the gap between the contract price and the market price. You can see that there are two forces at play: pull the price down or push the price up. If 1DAI is more than 1USD, people are incentivized to lock ETH and issue/get more DAI, which pulls down the price of DAI. If 1DAI is less than 1 USD, they are incentivized to pay back the loan and burn DAI, which pushes up the price of DAI.
 
