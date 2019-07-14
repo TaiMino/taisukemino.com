@@ -6,4 +6,4 @@ title: "Tai's website"
 description: "Tai's website"
 ---
 
-👋 Hi, I'm Tai! I write for gratifying my curiosity. Follow me on [Twitter](https://twitter.com/taisuke_mino) and [Medium](https://medium.com/@taisukemino) 🙂
+👋 Hi, I'm Tai! I’m working to build a permissionless financial system. I write for gratifying my curiosity. Follow me on [Twitter](https://twitter.com/taisuke_mino) and [Medium](https://medium.com/@taisukemino) 🙂
