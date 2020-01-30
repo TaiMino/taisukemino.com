@@ -20,13 +20,13 @@ When you send a transaction and once it’s mined, your account increments a val
 
 Beware that the nonce is the transaction counter of the sending address. It doesn’t include transactions received by the address.
 
-Let’s say you own this address `0x1b24d15c365428e562c95962a9de4e486cf9ca26`. You can see the list of transactions associated with this address here.
+Let’s say you own this address `0x1b24d15c365428e562c95962a9de4e486cf9ca26`. You can see the list of transactions associated with this address [here](https://ropsten.etherscan.io/txs?a=0x1b24d15c365428e562c95962a9de4e486cf9ca26&ps=100&p=1).
 
-In this transaction below, the nonce is `89`. You can see that it is sent from your address. Thus, this means your address has sent `90` transactions up to this point(it starts from `0`).
+In [this transaction](https://ropsten.etherscan.io/tx/0x0aba1bad9524a118bb9e69997c32d751e384de44ce2eb995e0fd72b59f9c1d2e) below, the nonce is `89`. You can see that it is sent from your address. Thus, this means your address has sent `90` transactions up to this point(it starts from `0`).
 
 ![](./nonce_one.png)
 
-Let’s take a look at another transaction below. This transaction’s nonce is `119`. Does this mean your address has sent `120` transactions up to this point? No. Since the transaction is sent from `0xa7d41f49dadca972958487391d4461a5d0e1c3e9`, the nonce is the counter for this address, not yours.
+Let’s take a look at [another transaction](https://ropsten.etherscan.io/tx/0x3353a920eded418db1c5f0decad4c0ef3e12a80f129476ed815040489952e1e5) below. This transaction’s nonce is `119`. Does this mean your address has sent `120` transactions up to this point? No. Since the transaction is sent from `0xa7d41f49dadca972958487391d4461a5d0e1c3e9`, the nonce is the counter for this address, not yours.
 
 ![](./nonce_two.png)
 
@@ -40,4 +40,4 @@ Second, it protects us from replay attacks. Without the nonce, a sender could do
 
 When a transaction includes the nonce, every single transaction is unique. That is, even with the same amount and the same recipient address. And the Ethereum network won’t accept a new outgoing transaction with the same nonce. This protects us against replay attacks. If Bob copies a transaction and propagates that again, it will simply be rejected.
 
-If you want to dig more, you can learn about the specification here.
+If you want to dig more, you can learn about the specification [here](https://github.com/ethereum/EIPs/blob/master/EIPS/eip-155.md).
