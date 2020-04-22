@@ -80,6 +80,3 @@ Now you perhaps know what the quote means?
 
 It was using binary. Since 10 in binary is 2 in decimals, we can say that:
 > “There are 2 kinds of people in the world — those who understand binary and those who don't.”
-
-
-#writing
