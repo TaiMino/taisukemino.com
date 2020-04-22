@@ -6,4 +6,4 @@ title: "Tai's website"
 description: "Tai's website"
 ---
 
-👋 Hi, I'm Tai! I’m working to build infrastructure for new financial economy. As a start, we built Crypterest: you can earn interests up to 10% a year by sharing your unused crypto assets. Follow me on [Twitter](https://twitter.com/taisuke_mino) and [Medium](https://medium.com/@taisukemino) 🙂
+👋 Hi, I'm Tai! I’m working to fix the brokenness in the financial industry. As a start, we built Goyemon(private beta). You can access to new generation financial services such as lending, exchanging, and even a no-loss lottery. Follow me on [Twitter](https://twitter.com/taisuke_mino) and [Medium](https://medium.com/@taisukemino) 🙂
