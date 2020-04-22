@@ -26,7 +26,7 @@ Normally, we count in a base 10, which means we represent every number using ten
 The “base” of a counting system is the number of symbols used to represent all the numbers in the world. We, humans, primarily use the base 10 probably because we have ten fingers. 
 
 
-## Base 2
+### Base 2
 A computer uses a base 2 system. 
 
 When counting in the base 2, we use only two symbols(0 and 1). Once we get over the symbol 1, we combine the symbols to create new numbers:
@@ -41,7 +41,7 @@ Why does a computer use the base 2 system at all? Here is the short answer. Ever
 The base 2 system is the simplest number system possible. If you want something simpler than the base 2, you'll have to get rid of the 1. But we can't do much of anything with a 0. 
 
 
-## Base 16
+### Base 16
 A base 16 system is another widely used counting system. It uses the same symbols as the base 10 (0,1,2,3,4,5,6,7,8,9) up to 9. But they also have six more symbols: A,B,C,D,E, and F. Once we get over the symbol
 F, we combine the symbols to create new numbers:
 ```
@@ -55,7 +55,8 @@ Since the base 16 system uses 16 symbols, a single-digit can show 16 different v
 The primary purpose of the base 16 system is to provide a shorthand for the base 10 or 2 system. 
 
 Below, you can see that the equivalent value of 4 digits in the base 2 uses only a single digit in the base 16: 
-[image:B9397B07-5453-4B1A-9FB6-5265F8BF7190-98339-0001CCB520ACC322/image_1.png]
+
+![](https://miro.medium.com/max/294/1*YuHduU3imOVs8RieOxQh9w.png)
 
 If you want to express large numbers, the base 16 can do that more shortly than the other two systems. The most common use of the base 16 today comes in the form of describing color online.
 ```
@@ -65,7 +66,7 @@ FFFFFF => white ⚪️
 ```
 
 
-## Summary
+### Summary
 By changing the number of symbols available to you, you can make any base system for counting. Since the base 10, 2 and 16 systems are common, we have another name for each:
 
 ```
