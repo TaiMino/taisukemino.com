@@ -64,12 +64,6 @@ module.exports = {
       options: {
         pathToConfigModule: 'src/utils/typography',
       },
-    },
-    {
-      resolve: "gatsby-plugin-fathom",
-      options: {
-        siteId: "RVGOXTVB"
-      }
     }
   ],
 }
