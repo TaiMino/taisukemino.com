@@ -6,4 +6,4 @@ title: "Tai's website"
 description: "Tai's website"
 ---
 
-👋 三野泰佑です。新しい金融経済のインフラを作ることがミッションです。その第一歩として、Goyemonを創りました(現在プライベートベータ)。暗号通貨を使った様々な金融サービスにアクセスできるウォレットです。簡単なインターフェースで貸借、交換、くじなどのサービスを使うことが可能です。[Twitter](https://twitter.com/taisuke_mino_JP)やってます 🙂
+👋 三野泰佑です。オープンで、透明で、民主的な金融システムを創ることがミッションです。その第一歩として、[Goyemon](https://goyemon.io)を創りました。価格の安定した暗号通貨を使い、安定的に金利を稼ぐことができます。[Twitter](https://twitter.com/taisuke_mino_JP)やってます。
