@@ -41,7 +41,7 @@ That was when I decided to build the habit rather than imagining my virtuous fut
 
 I started donating a small amount of money. You don’t have to donate $1000 from the beginning. I started at $50 a month. I will progressively donate more, but if I keep donating this amount for the rest of my life, I can save at least one child. If we donate $500 a month, we can save 10 children. 
 
-Imagine that you see a car crash, run through the flames and jump into the car from the window, and then let a child out. That would be the greatest moment in your life. Isn’t it amazing that we could do as much good as that? We are more powerful than we think we are. We can be a hero. So let’s use that power for a good cause. 
+Imagine that you see a car crash, run through the flames and jump into the car from the window, and then let a child out. That would be the greatest moment in your life. Isn’t it amazing that we could do as much good as that? Don't you think that this is a kind of life that is worth living? We are more powerful than we think we are. We can be a hero. So let’s use that power for a good cause. 
 
 Sir Nicholas Winston met the children he has saved in [the BBC Programme "That's Life"](https://www.youtube.com/watch?v=6_nFuJAF5F0) aired in 1988. You cannot watch this without tears. 
 
