@@ -11,22 +11,12 @@ language: "en"
 
 Here are some useful command-line tools that I use frequently to increase my productivity.
 
-### [**tldr**](https://github.com/tldr-pages/tldr)
+- [**tldr**](https://github.com/tldr-pages/tldr) is a more concise version of a man page.
 
-tldr is a more concise version of a man page.
+- [**bat**](https://github.com/sharkdp/bat) is a cat command with highlighting, paging, line numbers, and git integration.
 
-### [**bat**](https://github.com/sharkdp/bat)
+- [**htop**](https://hisham.hm/htop/) is a top command that acts as an activity monitor in your Terminal but with highlighting, keyboard bindings and different views.
 
-bat is a cat command with highlighting, paging, line numbers, and git integration.
+- [**t**](https://github.com/sferik/t%0A) is a twitter client in your Terminal. 
 
-### [**htop**](https://hisham.hm/htop/)
-
-htop a top command that acts as an activity monitor in your Terminal but with highlighting, keyboard bindings and different views.
-
-### [**t**](https://github.com/sferik/t%0A)
-
-Use Twitter from your Terminal.
-
-### [**z**](https://github.com/rupa/z)
-
-z is a cd command that jumps to a directory by tracking your most used directories.
+- [**z**](https://github.com/rupa/z) is a cd command that jumps to a directory by tracking your most used directories.
