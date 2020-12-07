@@ -24,7 +24,7 @@ You can see this all over the place - it’s how you learn math, it’s how scie
 
 Here is the problem with clueless business people. They skip the process of abstraction and just master names. If you ask them how the Proof of Work system works in a blockchain, they wouldn’t be able to explain. They know only the high-level concepts but not the low-level details.
 
-In “The Pleasure of Finding Things Out”, Richard Feynman beautifully explains the difference between knowing the name and knowing what it really is(if you prefer the video, here it is.)
+In “The Pleasure of Finding Things Out”, Richard Feynman beautifully explains the difference between knowing the name and knowing what it really is(if you prefer the video, [here](https://www.youtube.com/watch?v=lFIYKmos3-s) it is.)
 
 > “one kid said to me, “See that bird, what kind of a bird is that?” And I said, “I haven’t the slightest idea what kind of a bird it is.” He says, “It’s a brown throated thrush,” or something, “Your father doesn’t tell you anything.” But it was the opposite: my father had taught me. Looking at a bird he says, “Do you know what that bird is? It’s a brown throated thrush; but in Portuguese it’s a . . . in Italian a . . . ,” he says “in Chinese it’s a . . . , in Japanese a . . . ,” etcetera. “Now,” he says, “you know in all the languages you want to know what the name of that bird is and when you’ve finished with all that,” he says, “you’ll know absolutely nothing whatever about the bird. You only know about humans in different places and what they call the bird. Now,” he says, “let’s look at the bird.”
 
